@@ -1,8 +1,13 @@
 ---
 title: 아이템 4. 인스턴스화를 막고싶으면 private 생성자를 사용하라
-date: 2023-01-31 12:00 +0900
-categories: [공부, 이펙티브자바]
-tags: [effective-java]
+date: 2023-01-31 12:03 +0900
+categories:
+  - Study
+  - Effective Java
+  - 2 Creating and Destroying Objects
+tags:
+  - Effective Java
+  - 이펙티브 자바
 ---
 ## 아이템 4. 인스턴스화를 막고싶으면 private 생성자를 사용하라
 

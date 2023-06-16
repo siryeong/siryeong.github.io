@@ -1,8 +1,13 @@
 ---
 title: 아이템 8. finalizer와 cleaner 사용을 피하라
-date: 2023-02-01 12:00 +0900
-categories: [공부, 이펙티브자바]
-tags: [effective-java]
+date: 2023-02-01 12:07 +0900
+categories:
+  - Study
+  - Effective Java
+  - 2 Creating and Destroying Objects
+tags:
+  - Effective Java
+  - 이펙티브 자바
 ---
 ## 아이템 8. finalizer와 cleaner 사용을 피하라
 

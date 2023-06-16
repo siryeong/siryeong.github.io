@@ -1,8 +1,13 @@
 ---
-title: 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라
-date: 2023-01-31 12:00 +0900
-categories: [공부, 이펙티브자바]
-tags: [effective-java]     # TAG names should always be lowercase
+title: 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라
+date: 2023-01-31 12:02 +0900
+categories:
+  - Study
+  - Effective Java
+  - 2 Creating and Destroying Objects
+tags:
+  - Effective Java
+  - 이펙티브 자바
 ---
 ## 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라
 
